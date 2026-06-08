@@ -1,0 +1,8 @@
+{
+  "name": "axiom-turbovec-lite",
+  "version": "1.0.0",
+  "description": "Ultra-lightweight client-side simulation framework for local vector indexing",
+  "main": "turbovec.js",
+  "type": "module",
+  "dependencies": {}
+}
