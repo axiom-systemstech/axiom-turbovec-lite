@@ -16,3 +16,10 @@ import { simulateVectorIndex } from './turbovec.js';
 const indexingLog = simulateVectorIndex("Sovereign agent memory payload to index.", "cosine");
 console.log(indexingLog);
 ```
+## 🛠️ Quickstart
+1.​Clone the repository into your secure local dev stack.
+2.​Initialize the dependency layer:
+```bash
+npm install
+```
+3.Feed the local vectorized contexts directly into your localized LLM prompts.
